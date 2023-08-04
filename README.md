@@ -18,5 +18,5 @@ Estas son las formas normales más comunes, pero existen formas más avanzadas c
 
 ### Ejemplo
 
-[Normalizacion de Base de Datos](ejemplos.md)
-[Normalizacion de Base de Datos con Relaciones](ejemplos2.md)
+- [Normalizacion de Base de Datos](ejemplos.md)
+- [Normalizacion de Base de Datos con Relaciones](ejemplos2.md)
