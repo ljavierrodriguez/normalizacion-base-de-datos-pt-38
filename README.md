@@ -20,4 +20,4 @@ Estas son las formas normales más comunes, pero existen formas más avanzadas c
 
 - [Normalizacion de Base de Datos](ejemplos.md)
 - [Normalizacion de Base de Datos con Relaciones](ejemplos2.md)
-- [Diagrama Entidad Relación](ejemplos3.md)
+- [Diagrama Entidad Relación](ejemplo3.md)
