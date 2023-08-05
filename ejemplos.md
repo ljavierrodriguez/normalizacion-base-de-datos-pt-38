@@ -18,11 +18,11 @@ Ahora, vamos a aplicar la normalización a través de diferentes formas normales
 
 Separamos los datos repetidos y convertimos la información en filas únicas. Agregamos una clave primaria única para cada fila.
 
-| Número de Pedido | Cliente | Dirección        |
-|------------------|---------|------------------|
-| 1                | Juan    | Calle A, Ciudad  |
-| 2                | María   | Calle B, Ciudad  |
-| 3                | Juan    | Calle A, Ciudad  |
+| Número de Cliente | Cliente | Dirección        |
+|-------------------|---------|------------------|
+| 1                 | Juan    | Calle A, Ciudad  |
+| 2                 | María   | Calle B, Ciudad  |
+| 3                 | Juan    | Calle A, Ciudad  |
 
 | Número de Pedido | Producto | Cantidad | Precio Unitario |
 |------------------|----------|----------|-----------------|
